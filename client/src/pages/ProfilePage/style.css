@@ -1,0 +1,12 @@
+.profile {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.profile__alert {
+  margin-bottom: 40px;
+}
+
+.profile__table tr {
+  height: 40px;
+}
